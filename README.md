@@ -1,50 +1,80 @@
-# Welcome to your Expo app 👋
+# 🛡️ AnzenSensei — Cybersecurity Awareness App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![React Native](https://img.shields.io/badge/React%20Native-Expo-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-orange)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
-## Get started
+---
 
-1. Install dependencies
+## 📌 Overview
 
-   ```bash
-   npm install
-   ```
+**AnzenSensei** is a cybersecurity awareness mobile application designed to educate users about phishing attacks, password security, and safe online practices through interactive features and AI-powered detection.
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🚀 Features
 
-In the output, you'll find options to open the app in a
+- 🔐 Password Strength Checker
+- 🎯 Phishing Detection System (ML-based)
+- 🧠 Cybersecurity Quiz
+- 📰 Latest Security News
+- 💬 AI Message Analyzer
+- 📊 Interactive UI with Animations
+- 🔥 Firebase Integration
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🛠️ Tech Stack
 
-## Get a fresh project
+- React Native (Expo)
+- JavaScript (ES6)
+- Firebase
+- Machine Learning (Phishing Detection)
 
-When you're ready, run:
+---
+
+## 📂 Project Structure
+
+anzensensei/
+├── app/
+├── components/
+├── services/
+├── assets/
+├── assets1/
+├── firebaseConfig.js
+├── package.json
+
+---
+
+## 📸 Screenshots
+
+(Add screenshots here later)
+
+---
+
+## ⚙️ Installation & Setup
 
 ```bash
-npm run reset-project
+git clone https://github.com/Arnav-kun350/AnzenSensei.git
+cd AnzenSensei
+npm install
+npx expo start
+🧠 Machine Learning Component
+Custom phishing detection logic
+Feature extraction-based approach
+Simulated Random Forest logic
+📈 Future Improvements
+Real-time phishing detection
+AI chatbot
+Dashboard analytics
+OAuth authentication
+👨‍💻 Author
+
+Arnav Gupta
+GitHub: https://github.com/Arnav-kun350
+
+⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
 ```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
