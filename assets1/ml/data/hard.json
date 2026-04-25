@@ -1,0 +1,271 @@
+[
+  {
+    "question": "What is SQL Injection?",
+    "options": ["DB attack", "Virus", "Firewall", "Protocol"],
+    "answer": 0
+  },
+  {
+    "question": "XSS stands for?",
+    "options": [
+      "Cross Site Scripting",
+      "Extra Secure System",
+      "XML Secure",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Zero-day attack?",
+    "options": ["Unknown bug", "Old bug", "Safe", "Backup"],
+    "answer": 0
+  },
+  {
+    "question": "HTTPS uses?",
+    "options": ["SSL/TLS", "FTP", "SMTP", "DNS"],
+    "answer": 0
+  },
+  {
+    "question": "Brute force attack?",
+    "options": ["Guess passwords", "Encrypt data", "Delete data", "Backup"],
+    "answer": 0
+  },
+  {
+    "question": "DDoS attack?",
+    "options": ["Overload server", "Encrypt", "Backup", "Delete"],
+    "answer": 0
+  },
+  {
+    "question": "Firewall role?",
+    "options": ["Block traffic", "Store data", "Encrypt", "Delete"],
+    "answer": 0
+  },
+  {
+    "question": "Trojan is?",
+    "options": ["Malware", "Hardware", "Protocol", "Game"],
+    "answer": 0
+  },
+  {
+    "question": "Ransomware does?",
+    "options": ["Lock data", "Delete data", "Encrypt free", "Backup"],
+    "answer": 0
+  },
+  {
+    "question": "Pharming attack?",
+    "options": ["Redirect site", "Encrypt", "Delete", "Backup"],
+    "answer": 0
+  },
+
+  {
+    "question": "MITM attack?",
+    "options": ["Intercept communication", "Encrypt", "Delete", "Backup"],
+    "answer": 0
+  },
+  {
+    "question": "Hashing is?",
+    "options": ["One-way encryption", "Two-way", "Delete", "Backup"],
+    "answer": 0
+  },
+  {
+    "question": "VPN provides?",
+    "options": ["Secure tunnel", "Delete data", "Backup", "Game"],
+    "answer": 0
+  },
+  {
+    "question": "SSL stands for?",
+    "options": [
+      "Secure Socket Layer",
+      "System Secure Login",
+      "Safe Link",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Phishing uses?",
+    "options": ["Fake sites", "Real sites", "Secure apps", "None"],
+    "answer": 0
+  },
+  {
+    "question": "Botnet is?",
+    "options": ["Network of infected devices", "Firewall", "VPN", "Game"],
+    "answer": 0
+  },
+  {
+    "question": "Keylogger does?",
+    "options": ["Record keystrokes", "Encrypt", "Delete", "Backup"],
+    "answer": 0
+  },
+  {
+    "question": "Session hijacking?",
+    "options": ["Steal session", "Encrypt", "Delete", "Backup"],
+    "answer": 0
+  },
+  {
+    "question": "DNS spoofing?",
+    "options": ["Fake DNS", "Secure DNS", "Delete", "Backup"],
+    "answer": 0
+  },
+  {
+    "question": "Encryption key?",
+    "options": ["Used to encrypt/decrypt", "Delete", "Backup", "None"],
+    "answer": 0
+  },
+
+  {
+    "question": "Public key crypto?",
+    "options": ["Two keys", "One key", "No key", "Backup"],
+    "answer": 0
+  },
+  {
+    "question": "Private key?",
+    "options": ["Secret key", "Public key", "None", "Backup"],
+    "answer": 0
+  },
+  {
+    "question": "Digital signature?",
+    "options": ["Verify identity", "Delete", "Backup", "None"],
+    "answer": 0
+  },
+  {
+    "question": "Certificate authority?",
+    "options": ["Issue certs", "Delete", "Backup", "None"],
+    "answer": 0
+  },
+  {
+    "question": "Spoofing means?",
+    "options": ["Fake identity", "Real", "Secure", "None"],
+    "answer": 0
+  },
+  {
+    "question": "Rootkit is?",
+    "options": ["Hidden malware", "Game", "App", "None"],
+    "answer": 0
+  },
+  {
+    "question": "Exploit is?",
+    "options": ["Use vulnerability", "Secure", "Backup", "Delete"],
+    "answer": 0
+  },
+  {
+    "question": "Patch means?",
+    "options": ["Fix bug", "Create bug", "Delete", "Backup"],
+    "answer": 0
+  },
+  {
+    "question": "Sandboxing?",
+    "options": ["Isolated environment", "Delete", "Backup", "None"],
+    "answer": 0
+  },
+  {
+    "question": "Threat model?",
+    "options": ["Analyze risks", "Delete", "Backup", "None"],
+    "answer": 0
+  },
+
+  {
+    "question": "IDS detects?",
+    "options": ["Intrusion", "Delete", "Backup", "None"],
+    "answer": 0
+  },
+  {
+    "question": "IPS prevents?",
+    "options": ["Intrusion", "Delete", "Backup", "None"],
+    "answer": 0
+  },
+  {
+    "question": "Social engineering?",
+    "options": ["Human manipulation", "Encryption", "Backup", "Delete"],
+    "answer": 0
+  },
+  {
+    "question": "Credential stuffing?",
+    "options": ["Reuse passwords", "Encrypt", "Delete", "Backup"],
+    "answer": 0
+  },
+  {
+    "question": "Data exfiltration?",
+    "options": ["Steal data", "Delete", "Backup", "Encrypt"],
+    "answer": 0
+  },
+  {
+    "question": "TLS is?",
+    "options": ["Secure protocol", "Game", "Backup", "Delete"],
+    "answer": 0
+  },
+  {
+    "question": "Hash collision?",
+    "options": ["Same hash diff input", "Delete", "Backup", "None"],
+    "answer": 0
+  },
+  {
+    "question": "Zero trust?",
+    "options": ["Verify always", "Trust all", "Delete", "Backup"],
+    "answer": 0
+  },
+  {
+    "question": "Pen testing?",
+    "options": ["Test security", "Delete", "Backup", "None"],
+    "answer": 0
+  },
+  {
+    "question": "Vulnerability scan?",
+    "options": ["Find weaknesses", "Delete", "Backup", "None"],
+    "answer": 0
+  },
+
+  {
+    "question": "Threat actor?",
+    "options": ["Attacker", "User", "Admin", "None"],
+    "answer": 0
+  },
+  {
+    "question": "Data integrity?",
+    "options": ["Data accuracy", "Delete", "Backup", "None"],
+    "answer": 0
+  },
+  {
+    "question": "Confidentiality?",
+    "options": ["Data secrecy", "Delete", "Backup", "None"],
+    "answer": 0
+  },
+  {
+    "question": "Availability?",
+    "options": ["System uptime", "Delete", "Backup", "None"],
+    "answer": 0
+  },
+  {
+    "question": "CIA triad?",
+    "options": [
+      "Confidentiality Integrity Availability",
+      "Delete",
+      "Backup",
+      "None"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Security audit?",
+    "options": ["Check system", "Delete", "Backup", "None"],
+    "answer": 0
+  },
+  {
+    "question": "Access control?",
+    "options": ["Restrict access", "Delete", "Backup", "None"],
+    "answer": 0
+  },
+  {
+    "question": "Privilege escalation?",
+    "options": ["Gain higher access", "Delete", "Backup", "None"],
+    "answer": 0
+  },
+  {
+    "question": "Secure coding?",
+    "options": ["Write safe code", "Delete", "Backup", "None"],
+    "answer": 0
+  },
+  {
+    "question": "Cybersecurity goal?",
+    "options": ["Protect systems", "Delete", "Backup", "None"],
+    "answer": 0
+  }
+]
