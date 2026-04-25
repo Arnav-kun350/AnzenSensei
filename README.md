@@ -52,27 +52,27 @@ anzensensei/
 
 ### 🏠 Dashboard
 
-![Dashboard](screenshots/Dashboard.jpeg)
+![Dashboard](Screenshots/Dashboard.jpeg)
 
 ### 🔐 Login
 
-![Login](screenshots/login.jpeg)
+![Login](Screenshots/login.jpeg)
 
 ### 💬 Message Analyzer
 
-![Message](screenshots/Message.jpeg)
+![Message](Screenshots/Message.jpeg)
 
 ### 📰 News
 
-![News](screenshots/News.jpeg)
+![News](Screenshots/News.jpeg)
 
 ### 🔑 Password Checker
 
-![Password](screenshots/Password.jpeg)
+![Password](Screenshots/Password.jpeg)
 
 ### 🎯 Phishing Detection
 
-![Phishing](screenshots/Phishing.jpeg)
+![Phishing](Screenshots/Phishing.jpeg)
 
 ---
 
