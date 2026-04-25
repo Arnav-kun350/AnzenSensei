@@ -49,7 +49,29 @@ anzensensei/
 
 ## 📸 Screenshots
 
-(Add screenshots here later)
+### 🏠 Dashboard
+
+![Dashboard](screenshots/Dashboard.jpeg)
+
+### 🔐 Login
+
+![Login](screenshots/login.jpeg)
+
+### 💬 Message Analyzer
+
+![Message](screenshots/Message.jpeg)
+
+### 📰 News
+
+![News](screenshots/News.jpeg)
+
+### 🔑 Password Checker
+
+![Password](screenshots/Password.jpeg)
+
+### 🎯 Phishing Detection
+
+![Phishing](screenshots/Phishing.jpeg)
 
 ---
 
