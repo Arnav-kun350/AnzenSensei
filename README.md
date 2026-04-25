@@ -1,5 +1,6 @@
 # 🛡️ AnzenSensei — Cybersecurity Awareness App
 
+🚀 Updated screenshots section
 ![React Native](https://img.shields.io/badge/React%20Native-Expo-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![Firebase](https://img.shields.io/badge/Firebase-Backend-orange)
